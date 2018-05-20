@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="cal_blue_bg_width">96dp</dimen>
+  <dimen name="cal_blue_bg_height">42dp</dimen>
+  <dimen name="cal_text_font_size">60sp</dimen>
+</resources>
